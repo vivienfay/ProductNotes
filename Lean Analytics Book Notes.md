@@ -1,4 +1,4 @@
-# Lean Analytics
+# Lean Analytics Book Notes
 
 
 ## Princeple of business model
