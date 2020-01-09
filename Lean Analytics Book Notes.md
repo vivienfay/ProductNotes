@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Lean Analytics.md
 Jupyter Notebook
 Untitled
 Last Checkpoint: 38 minutes ago
@@ -17,6 +18,17 @@ Help
 ​
 ​
 ## Principle of Business Model
+||||||| merged common ancestors:Lean Analytics.md
+# Lean Analytics
+
+
+## Princeple of business model
+=======
+# Lean Analytics Book Notes
+
+
+## Princeple of business model
+>>>>>>> f052b74e826aa435e0ba5156fb9b7ec72322344c:Lean Analytics Book Notes.md
 1. Selling more stuff to more people more often for more money more efficiently
 More stuff: adding products or services
 More people: more users
@@ -37,6 +49,7 @@ Delivery model：how you get your product to your customer
 - Recommendation engines are used more often
 - Segmenting traffic
 - Purchase are far from the website itself. Social network, email, online community will lead to the purchase
+<<<<<<< HEAD:Lean Analytics.md
 - Loyalty-focused company try to establish the recurring relationship with their users
 ​
 **Common Metrics:**
@@ -163,3 +176,8 @@ app use it each month.
 • The maximum number of concurrent users will be 10% of the number
 of daily users.
 ​
+||||||| merged common ancestors:Lean Analytics.md
+- Loyalty-focused company try to establish the recurring relationship with their users
+=======
+- Loyalty-focused company try to establish the recurring relationship with their users
+>>>>>>> f052b74e826aa435e0ba5156fb9b7ec72322344c:Lean Analytics Book Notes.md
