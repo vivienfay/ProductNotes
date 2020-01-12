@@ -286,6 +286,86 @@ inventory and how well it fits what buyers are looking for.
 be able to make money in other ways, by helping sellers promote their
 products or charging a listing fee.
 
+## Stages
+![alt text](lean_analytics/5stages.png)
+
+### Stage One: Empathy
+
+*Get insdie someone else's head*
+
+Goal: Find a problem worth solving and a solution that's sufficiently good to garner early traction.
+
+- Your goal is to identify a need you can solve in a way people will pay
+money for at scale. Analytics is how you measure your way from your
+initial idea to the realization of that goal.
+- Early on, you conduct qualitative, exploratory, open-ended discussions
+to discover the unknown opportunities.
+- Later, your discussions become more quantitative and more convergent,
+as you try to find the right solution for a problem.
+- You can use tools to get answers at scale and build up an audience as
+you figure out what product to build.
+
+### Stage Two: Stickness
+
+- Your goal is to prove that you’ve solved a problem in a way that keeps
+people coming back.
+- The key at this stage is engagement, which is measured by the time
+spent interacting with you, the rate at which people return, and so on.
+You might track revenue or virality, but they aren’t your focus yet.
+- Even though you’re building the minimal product, your vision should
+still be big enough to inspire customers, employees, and investors—
+and there has to be a credible way to get from the current proof to the
+future vision.
+- Don’t step on the gas until you’ve proven that people will do what you
+want reliably. Otherwise, you’re spending money and time attracting
+users who will leave immediately.
+- Rely on cohort analysis to measure the impact of your continuous
+improvements as you optimize the stickiness of your product.
+
+### Stage Three: Virality
+
+To calculate your viral coefficient:
+1. First calculate the invitation rate, which is the number of invites sent
+divided by the number of users you have.
+2. Then calculate the acceptance rate, which is the number of signups or
+enrollments divided by the number of invites.
+3. Then multiply the two together.
+
+### Stage Four: Revenue
+
+- The core equation for the Revenue stage is the money a customer brings
+in minus the cost of acquiring that customer. This is the return on
+acquisition investment that drives your growth.
+- You’re moving from proving you have the right product to proving you
+have a real business. As a result, your metrics shift from usage patterns
+to business ratios.
+- Think of a business as a machine that converts money into greater
+sums of money. The ratio of money in to money out, as well as the
+maximum amount of money you can put in, dictates the value of the
+business.
+- You’re trying to figure out where to focus: more revenue per customer,
+more customers, more efficiencies, greater frequency, and so on.
+- If things aren’t working, it may be easier to pivot your initial product
+to a new market rather than starting from scratch.
+- While your goal is to grow, you should also keep an eye on breakeven,
+because once you can pay your own bills you can survive indefinitely.
+
+### Stage Five: Scale
+
+- When you’re scaling, you know your product and your market. Your
+metrics are now focused on the health of your ecosystem, and your
+ability to enter new markets.
+- You’ll look at compensation, API traffic, channel relationships, and
+competitors at this stage—whereas before, these were distractions.
+- You need to understand if you’re focused on efficiency or differentiation.
+Trying to do both as a way of scaling is difficult. If you’re efficiencyfocused,
+you’re trying to reduce costs; if you’re differentiation-focused,
+you’re increasing margins.
+- As you grow, you’ll need to have more than one metric at a time. Set
+up a hierarchy of metrics that keeps the strategy, the tactics, and the
+implementation aligned with a consistent set of goals. We call this the
+three threes.
+
 
 ## How to evaluate the metrics 
 - **Growth rate**: a good growth rate is 5%-7%. If over 10%, it suggests you are doing very well.
