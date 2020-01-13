@@ -368,10 +368,85 @@ three threes.
 
 
 ## How to evaluate the metrics 
+
+
+### General
 - **Growth rate**: a good growth rate is 5%-7%. If over 10%, it suggests you are doing very well.
-- **Number of engaged visitors**: • 30% of registered users will use a web-based service at least once a
+    - If the company is at the Revenue Stage, then growth is measured in revenue
+    - If it's not charging money yet, growth is measured in active users
+    
+
+- **Number of engaged visitors**: 
+    - 30% of registered users will use a web-based service at least once a
 month. For mobile applications, 30% of the people who download the
 app use it each month.
-• 10% of registered users will use the service or mobile app every day.
-• The maximum number of concurrent users will be 10% of the number
+    - 10% of registered users will use the service or mobile app every day.
+    - The maximum number of concurrent users will be 10% of the number
 of daily users.
+
+
+- **Pricing Metrics**: do more testing, understanding the right tiers of pricing and the pricee elasiticity of your market
+
+
+
+- **Cost of Customer Acquisition**: the acquisition cost should be less than a third of the total value a customer brings you over her lifetime.
+    **Reason**:
+    - The CLV you've calculated is probably wrong.
+    - The acquisition cost is probably wrong
+    - Between the time that you spend money to acquire someone and the time you recoup that investment, you're basically lending the customer money
+    - Limiting youself to a customer acquisition cost of only a third of your CLV will force you to verify your acquisition costs sonner, which will make your more honest
+    
+
+- **Virality**: how many new users each existing user succesfully invites(your viral coefficient) and the time it takes her to do so.
+    - A sustained viral coefficient of greater than 1 is an extremely strong indicator of growth, and suggests that you should be focusing on stickiness so you can retain those new users as you add them.
+    - distinguish between artificial varality & inherent virality
+    - If virality is below 1, it's helping lower your customer acquisition cost. If above 1, you'll grow. If ove 0.75, pretty good.
+    - Try to build inherent virality into the product, and track it against your business model. Treat artificial virality the same way you would customer aquisition, and segment it by the value of the new users it brings in.
+    
+
+- **Mailing List Effectiveness**:
+    - The more frequently you email users, the lower your bounce and humanflagged spam rates (because those addresses quickly get removed from the list), but frequent emailing also tends to reduce engagement metrics like open rate and click-through rate, because recipients get email fatigue.
+    - A higher rate of machine-flagged spam leads to a lower rate of humanflagged spam, because humans don’t complain about mail they don’t
+receive.
+    - Open rate is a fundamentally flawed metric, because it relies on the mail client to load a hidden pixel—which most modern mail applications. don’t do by default.
+    - Open and click-through rates will vary significantly, but a well-run
+campaign should hit a 20–30% open rate and over 5% click-through.
+
+
+- **Uptime and Reliability**: the underlying ingrastructure will cause problems
+    - For a paid service that users rely on (such as an email application or a
+hosted project management application), you should have at least 99.5%
+uptime, and keep users updated about outages.
+
+
+- **Site Engagement**: 
+    - An average engaged time on a page of one minute is normal, but there’s wide variance between sites and between pages on a site.
+   
+
+- **Web Performance**: 
+    - Get your pages to load for a first-time visitor in less than 5 seconds; after 10, and you’ll start to suffer.
+    
+
+
+### E-commerce
+**Measure, Learn, and segment properly**
+
+- **Conversion Rate**: 
+Company segments: catalog sites / retail giants/ gift sites
+    - If you’re an online retailer, you’ll get initial conversion rates of around 2%, which will vary by vertical, but if you can achieve 10%, you’re doing incredibly well
+    - there’s a correlation between average order size and conversion rate.
+    
+    
+- **Shopping Cart Abandonment**:
+    - Sixty-five percent of people who start down your purchase funnel will abandon their purchase before paying for it.
+    
+
+- **Search Effectiveness**
+    - Fifty-four percent of iOS web traffic is devoted to search, compared to 36% for the Internet as a whole—and 9 out of 10 mobile searches lead to action, with over half of them leading to a purchase.
+    
+    
+### SaaS
+
+
+
+
