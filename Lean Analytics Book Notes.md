@@ -428,7 +428,7 @@ uptime, and keep users updated about outages.
     
 
 
-### E-commerce
+### 1.  E-commerce
 **Measure, Learn, and segment properly**
 
 - **Conversion Rate**: 
@@ -445,7 +445,113 @@ Company segments: catalog sites / retail giants/ gift sites
     - Fifty-four percent of iOS web traffic is devoted to search, compared to 36% for the Internet as a whole—and 9 out of 10 mobile searches lead to action, with over half of them leading to a purchase.
     
     
-### SaaS
+### 2. SaaS
+
+
+- **Paid Enrollment**: 
+    - tailor marketing to users based on their activity
+    - not put up a credit card paywall to try the service, but to segment users into three groups
+    - If you ask for a credit card up front, expect just 2% of visitors to try your service, and 50% of them to use it. If you don’t ask for a credit card, expect 10% to try, and up to 25% to buy—but if they’re surprised by a payment, you’ll lose them quickly.
+    - In our preceding example, not having a credit card up front gives you a 40% increase in conversions, provided you can tailor your selling efforts to each segment of your evaluators based on their activity.
+    
+    
+- **Freemium VS Paid**:
+    - freemium models work for products that have:
+        - A low cost of delivering service to an additional user
+        - Cheap, or even free, marketing that happens as people use the product.
+        - A relatively simple tool that doesn’t require long evaluations or training.
+        - An offering that “feels right” if it’s free. Some products (like homeowner’s insurance) might make prospects wary if they’re offered for free.
+        - An increase in value the longer someone uses the product. Flickr gets more valuable the more images you store in it, for example.
+        - A good viral coefficient, so your free users become marketers for you.
+        
+
+- **Upselling and Growing Revenue**
+    - 0.6% of free users moved up to a paying tier in a given month, and that 2.3% of a company’s subscribers moved from a lower-priced tier to a higher-priced one in a given month
+    - Try to get to 20% increase in customer revenue—which may include additional seat licenses—each year.
+    - Try to get 2% of your paying subscribers to increase what they pay each month.
+    
+    
+- **Churn**
+    - Try to get down to 5% churn a month before looking at other things to  optimize. If churn is higher than that, chances are you’re not sticky enough. If you can get churn to around 2%, you’re doing exceptionally well.
+
+
+
+    
+### 3. Free Mobile App
+
+
+- **Mobile Download**: 
+    - No 'typical' here
+    - smart mobile developers use the abundance of information about
+competitors to see what’s working, emulate their successes, and avoid their
+mistakes
+
+
+- **Mobile Download Size**
+    - Keep your initial downloads small, and aim for less than 50 MB to minimize download churn.
+
+
+- **Mobile Customer Acquisition Cost**
+    - Pay around 0.50 for a paid (mercenary) install, and around 2.50 for a  legitimate, organic one, but make sure that your overall acquisition cost is less than 0.75 per user (and, of course, less than the lifetime value of a user).
+
+
+- **Application Launch Rate**
+    - Expect a significant number of downloads to never launch your application,
+particularly if it’s a free app.
+
+
+
+- **Percent Active Mobile Users/Players**
+    - Assume that a big chunk of the people who try your app once will never do so again—but after that initial cliff drop, you’ll see a more gradual decline in engaged users.
+
+
+
+-  **Percentage of Mobile Users Who Pay**
+    - For a freemium model, aim for a conversion from free to paid of 2%. For a mobile application or game with in-app purchases, assume that roughly 1.5% of users will buy something.
+    
+    
+    
+- **Average Revenue Per Daily Active User**
+    - 0.01–0.05 USD for puzzle, caretaking, and simulation games
+    - 0.03–0.07 USD for hidden object, tournament, and adventure games
+    - 0.05–0.10 USD for RPGs, gambling, and poker games
+    - at least above 0.05
+    
+    
+- **Monthly Average Revenue Per Mobile User**
+    - for mobile games, a decent average is 3 per month per daily active player—or 0.10 per day.
+    
+    
+- **Average Revenue Per Paying User**
+    - looking at ARPPU for whales, dolphins, and minnows separately
+        - Whales: 10% of payers, ARPPU of 20
+        - Dolphins: 40% of payers, ARPPU of 5
+        - Minnows: 50% of payers, ARPPU of 1
+
+
+- **Mobile App Ratings Click-Through**
+    - Expect less than 1.5% review rate for paid apps, and significantly less than 1% for free apps.
+    
+    
+    
+- **Mobile Customer Lifetime Value**
+    - Frequently used apps that retain loyal customers may be a better vehicle for advertising, recurring fees, or well-designed in-app content.
+    - Frequently used apps that lose users after a while may satisfy a need (such as buying a house, or completing the game) and then go away. A per-transaction fee on completion, as well as the right to reach out to
+the user when the need occurs again, will matter more than long-term
+engagement.
+    - Infrequent, low-loyalty applications need to “grab money” early on, so they may be better as a sold application or using a one-time fee.
+    - Infrequent, highly loyal applications need to make the most of those
+infrequent interactions by upselling, encouraging the user to invite
+others, and making sure they stay in the user’s “utility belt” of useful
+tools.
+
+
+
+### 3. Media Site
+
+
+
+
 
 
 
