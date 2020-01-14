@@ -612,7 +612,8 @@ causing the problem.
 
 
 ### If you don't have baseline
-    - Consider the 30-day optimization effort
+
+- Consider the 30-day optimization effort
 
 
 
