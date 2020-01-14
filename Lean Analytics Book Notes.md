@@ -1,6 +1,59 @@
 # Lean Analytics Book Notes
 
-## Several Framework
+
+## Contents
+[**Framework**](##Framework)
+
+[1. AARRR](###AARRR)
+
+[2. Eric Ries's Engines of Growth](###Eric-Ries's-Engines-of-Growth)
+
+[3. Lean Canvas](###Lean-Canvas)
+
+[4. Startup Growth Pyramid](###Startup-Growth-Pyramid)
+
+[5. The Lean Analytics Stages and Gates](###The-Lean-Analytics-Stages-and-Gates)
+
+[**Principle of Business Mode**](##Principle-of-Business-Mode)
+
+[**Models for Several Industries(Game rule)**](##Models-for-Several-Industries(Game-rule))
+
+[1. Ecommerce](###E-commerce)
+
+[2. Software as a Service(SaaS)](###Software-as-a-Service(SaaS))
+
+[3. Free Mobile App](###Free-Mobile-App)
+
+[4. Media Site](###Media-Site)
+
+[5. User-generated content](###User-generated-content)
+
+[6. Two-Sided Marketplace](###Two-Sided-Marketplace)
+
+
+[**Stages**](##Stages)
+
+[1. Stage One: Empathy](###Stage-One:-Empathy)
+
+[2. Stage Two: Stickness](###Stage-Two:-Stickness)
+
+[3. Stage Three: Virality](###Stage-Three:-Virality)
+
+[4. Stage Four: Revenue](###Stage-Four:-Revenue)
+
+[5. Stage Five: Scale](###Stage-Five:-Scale)
+
+
+[**How to evaluate the metrics **](##How-to-evaluate-the-metrics )
+
+
+[5. General](###General)
+
+
+
+
+
+## Framework
 
 ### 1. AARRR
 ![alt text](lean_analytics/aarrr.png)
@@ -547,12 +600,71 @@ tools.
 
 
 
-### 3. Media Site
+### 4. Media Site
+
+
+- **Click Through Rates**: Your ads will get 0.5 to 2% click-through rate for most kinds of on-page advertising. Below 0.08%, you’re doing something horribly wrong.
+
+- **Sessions-to-Click Ratio**: You’ll lose around 5% of clicks before the visitor ever gets to your site. Deal
+with it. If you’re sticky enough, the visitor will try again.
+
+
+- **Referrers**:
+    - Traffic from social referrers was much less engaged
+    - Learn where your most beneficial traffic comes from, and what topics it’s
+after, and spend time cultivating a following around those sources and
+topics. When you run experiments, segment them by platform: Facebook
+fans want a different kind of content from Twitter followers.
+
+
+- **Engaged Time**: Media sites should aim for 90 seconds or more of engaged time on their content pages. Don’t expect (or aim for) a high engaged time on landing pages, though; you want people to find the content they want quickly and dig in further.
+
+
+- **Sharing with Others**
+    - the median ratio of views to shares is just nine
+    - sharing happens from a groundswell of small interactions among colleagues and friends, rather than through massive actions between one person and an army of minions.
 
 
 
+### 5. User-Generated Content
 
 
+
+- **Content Upload Success**: There’s no clear number, but if a content generation function (such as
+uploading photos) is core to the use of your application, optimize it until all
+your users can do it, and track error conditions carefully to find out what’s
+causing the problem.
+
+
+- **Time on Site per Day**: 
+    - the average time on site per day seemed to be 17 minutes
+
+
+- **Engagement Funnel Changes**: expect 25% of your visitors to lurk, 60–70% of your visitors to do things that are easy and central to the purpose of your product or service, and 5–15% of your users to engage and create content for you. Among those engaged users, expect 80% of your content to come from a small, hyperactive group of users, and expect 2.5% of users to interact casually with content and less than 1% to put some effort into interaction.
+
+
+- **Spam and Bad Content**: 
+    - spend a significant amount of time and money fighting spam as you become more popular
+    - Content quality is a leading indicator of user satisfaction, so watch for a decline in quality and deal with it before it alienates your community
+    
+    
+    
+### 6. Two-Sided Marketplaces
+
+
+- **Transaction Size**:
+    - Smaller purchases carry less risk, and may be more impulsive or whimsical than big ones.
+
+
+- **Top 10 Lists**:
+    - Who are your top 10 buyers?
+    - Who are your top 10 sellers?
+    - What products or categories generate the majority of your revenues?
+    - What price ranges, times of day, and days of week experience peak sales?
+
+
+### If you don't have baseline
+    - Consider the 30-day optimization effort
 
 
 
