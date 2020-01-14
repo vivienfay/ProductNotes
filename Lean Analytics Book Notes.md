@@ -1,58 +1,6 @@
 # Lean Analytics Book Notes
 
 
-## Contents
-[**Framework**](##Framework)
-
-[1. AARRR](###AARRR)
-
-[2. Eric Ries's Engines of Growth](###Eric-Ries's-Engines-of-Growth)
-
-[3. Lean Canvas](###Lean-Canvas)
-
-[4. Startup Growth Pyramid](###Startup-Growth-Pyramid)
-
-[5. The Lean Analytics Stages and Gates](###The-Lean-Analytics-Stages-and-Gates)
-
-[**Principle of Business Mode**](##Principle-of-Business-Mode)
-
-[**Models for Several Industries(Game rule)**](##Models-for-Several-Industries(Game-rule))
-
-[1. Ecommerce](###E-commerce)
-
-[2. Software as a Service(SaaS)](###Software-as-a-Service(SaaS))
-
-[3. Free Mobile App](###Free-Mobile-App)
-
-[4. Media Site](###Media-Site)
-
-[5. User-generated content](###User-generated-content)
-
-[6. Two-Sided Marketplace](###Two-Sided-Marketplace)
-
-
-[**Stages**](##Stages)
-
-[1. Stage One: Empathy](###Stage-One:-Empathy)
-
-[2. Stage Two: Stickness](###Stage-Two:-Stickness)
-
-[3. Stage Three: Virality](###Stage-Three:-Virality)
-
-[4. Stage Four: Revenue](###Stage-Four:-Revenue)
-
-[5. Stage Five: Scale](###Stage-Five:-Scale)
-
-
-[**How to evaluate the metrics **](##How-to-evaluate-the-metrics )
-
-
-[5. General](###General)
-
-
-
-
-
 ## Framework
 
 ### 1. AARRR
